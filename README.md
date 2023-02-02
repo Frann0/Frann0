@@ -38,16 +38,6 @@
 </a>
 </p>
 
-<h2 align="center">
-  My Github Stats
-</h2>
- 
-<br>
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Frann0&show_icons=true&locale=en&layout=compact&theme=graywhite&line_height=0" />
-  <img  src = "https://github-readme-stats.vercel.app/api?username=Frann0&show_icons=true&locale=en&layout=compact&theme=graywhite&line_height=25">
-</p> 
-
 <h2 align="center"> 
   Enjoy my work?
 </h2>
